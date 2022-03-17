@@ -41,7 +41,7 @@ fn main() {
     });
 
     // resizable array (vector)
-    let mut v: Vec<i32> = Vec::New();
+    let mut v: Vec<i32> = Vec::new();
     v.push(2);
     v.push(3);
 
